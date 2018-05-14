@@ -1,1 +1,5 @@
-# path-of-bot
+# Path of Bot
+
+Path of Exile Discord Bot
+
+Comannds:
